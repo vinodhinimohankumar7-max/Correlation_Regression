@@ -25,5 +25,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+Thus, the coefficient of correlation between the given X and Y data was calculated successfully, and the regression line of Y on X was obtained. The data points and regression line were also plotted successfully.
 
 # Output 
+![alt text](<Screenshot 2026-08-26 130137.png>)
